@@ -1,0 +1,10 @@
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\bin\Debug\WFConversoes.exe.config
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\bin\Debug\WFConversoes.exe
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\bin\Debug\WFConversoes.pdb
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.csprojAssemblyReference.cache
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.Form1.resources
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.Properties.Resources.resources
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.csproj.GenerateResource.cache
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.csproj.CoreCompileInputs.cache
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.exe
+C:\Users\DesenvolvimentoVI\Desktop\ConversoesAOC\WFConversoes\obj\Debug\WFConversoes.pdb
